@@ -1,5 +1,5 @@
 # Lipo Solar Charger
-###[開發筆記](http://blog.hardnote.net/2019/12/lipo_solar_charger/ "開發筆記")
+### [開發筆記](http://blog.hardnote.net/2019/12/lipo_solar_charger/ "開發筆記")
 ## Lipo Solar Charger 技術規格
 採用CN3791作為MPPT太陽能充電ic，最大功率電壓設定在6V(可透過置換電阻改變最大功率電壓)
 採用MT3608做3.7V to 5V/12V的boost電路，有一個JMP可以選擇輸出是5V/12V
